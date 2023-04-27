@@ -1,0 +1,15 @@
+.banner{
+    width: 100%;
+}
+header{
+    background-color: rgb(157, 238, 168);
+}
+.container{
+    width: 80%;
+    background-color: rgb(55, 180, 139);
+    margin: auto;
+}
+footer{
+    background-color: rgb(212, 33, 33);
+    width: 100%;
+}
